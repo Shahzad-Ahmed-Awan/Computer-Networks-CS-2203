@@ -70,6 +70,6 @@ Each lab folder may contain reports, screenshots, or related files produced duri
 
 ```
 
-<p align="center"> ⭐ Learning Networking Through Practice </p> 
+         ⭐ Learning Networking Through Practice 
 
 ```
